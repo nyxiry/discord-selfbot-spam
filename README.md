@@ -24,7 +24,7 @@ pip install -U discord.py-self
 ## How to Use
 <br/>
 
-- Copy the script and paste it into new **.py** file
+- Copy the script and paste it into new **.py** file (Or clone the repo for a ready file)
 ```py
 import discord
 from discord.ext import commands
